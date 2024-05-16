@@ -1,4 +1,14 @@
-### Hi there 👋
+### Oi, eu sou o Huylquias! 
+
+🌱 Um resumo sobre mim: Fico animado em 'perguntar'. Qual é a pior coisa que podem me dizer? ‘Não’? Bem, e daí? Amanhã é um novo dia, amigo, podemos tentar de outra forma. 
+
+- 😄 Pronomes: Ele/Dele.
+- ⚡ Curiosidade: Sou apaixonado em carros antigos. 
+
+## Atualmente estudo:
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"  height="40"/>
+
 
 <!--
 **huylquias/huylquias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
