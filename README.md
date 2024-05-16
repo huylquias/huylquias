@@ -1,6 +1,6 @@
 ### Oi, eu sou o Huylquias! 
 
-🌱 Um resumo sobre mim: Fico animado em 'perguntar'. Qual é a pior coisa que podem me dizer? ‘Não’? Bem, e daí? Amanhã é um novo dia, amigo, podemos tentar de outra forma. 
+🌱 Para mim, uma nota 10 ainda é pouco. 
 
 - 😄 Pronomes: Ele/Dele.
 - ⚡ Curiosidade: Sou apaixonado em carros antigos. 
