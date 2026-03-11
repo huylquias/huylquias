@@ -1,10 +1,3 @@
-### Oi, eu sou o Huylquias! 
-
-🌱 Sou um cara simples, gosto de aprender e de descobrir coisas novas. 
-
-- 😄 Pronomes: Ele/Dele.
-- ⚡ Curiosidade: Sou apaixonado em carros antigos. 
-
 <div align="center">
 <a href="https://github.com/derianjr">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huylquias&layout=compact&langs_count=7&theme=dracula"/>
